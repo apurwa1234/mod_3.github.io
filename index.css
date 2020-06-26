@@ -1,0 +1,47 @@
+
+
+
+
+
+#title
+{
+    padding-top: 5px;
+    padding-bottom: 20px;
+
+}
+.menu
+{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+.heading1
+{
+    background-color: pink;
+    box-sizing: border-box;
+    float: right;
+    margin: 0px;
+    padding:10px 10px 10px 10px ;
+    
+
+}
+.heading2
+{
+    background-color: red;
+    box-sizing: border-box;
+    float: right;
+    margin: 0px;
+    padding:10px 10px 10px 10px;
+
+}
+.heading3{
+    background-color: sandybrown;
+    box-sizing: border-box;
+    float: right;
+    margin: 0px;
+    padding: 10px 10px 10px 10px;
+
+}
+.card-body
+{
+    background-color: grey;
+}
